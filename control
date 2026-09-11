@@ -1,0 +1,9 @@
+Package: com.example.helloworlddemo
+Name: HelloWorldDemo
+Depends: firmware (>= 8.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Hello World demo app for iOS 10.
+Maintainer: unknown
+Author: unknown
+Section: Applications
