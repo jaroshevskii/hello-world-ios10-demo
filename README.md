@@ -2,7 +2,7 @@
 
 iOS 10 "Hello World" demo app built with [Theos](https://theos.dev) for a 32-bit iPad 4 (A6X, `armv7s`) running iOS 10.3.4.
 
-Programmatic UI: `UIViewController` + Auto Layout constraints (no storyboards), full iPad rotation support, launch images, no third-party code signing required on install.
+<img width="2048" height="1536" alt="IMG_0038" src="https://github.com/user-attachments/assets/25fd50d5-a28c-46ea-893b-819646d32b6a" />
 
 ## What's inside
 
